@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: udacity/python-helloworld:latest
+          tags: binhcools/udacity:latest
