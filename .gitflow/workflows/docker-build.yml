@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: https://github.com/ninjacoderz/udacity/latest
+          tags: https://github.com/ninjacoderz/udacity/python-helloworld:latest
